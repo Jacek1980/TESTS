@@ -10,6 +10,7 @@ public class TestGIT {
         System.out.println("Hello GIT");
         System.out.println("Hello from GIT");
         System.out.println("Hello from GIT");
+        System.out.println("Hello from 2 GIT");
     }
     
 }
