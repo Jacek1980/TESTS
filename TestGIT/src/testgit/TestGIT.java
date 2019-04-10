@@ -11,6 +11,8 @@ public class TestGIT {
         System.out.println("Hello from GIT");
         System.out.println("Hello from GIT");
         System.out.println("Hello from 2 GIT");
+        
+        System.out.println("Hello from 3 GIT");
     }
     
 }
